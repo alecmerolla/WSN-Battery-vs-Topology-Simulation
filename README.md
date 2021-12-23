@@ -1,6 +1,6 @@
 # WSN-Battery-vs-Topology-Simulation
 This simulation program can be used to find the most suitable topolgy for most wireless sensor network applications.         
-Information co9llected includes:         
+Information collected includes:         
   average packet generation/s 
   real time relation to animation time
   battery capacitance
