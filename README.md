@@ -14,5 +14,5 @@ Information co9llected includes:
   last node to die
   when each node died or just a percentage still alive
   
-<img src="https://imgflip.com/gif/5yu5dn" width="360px"/>
+![]("https://imgflip.com/gif/5yu5dn")
 
