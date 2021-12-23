@@ -14,5 +14,5 @@ Information collected includes:
   last node to die, 
   when each node died or just a percentage still alive
   
-![showcase](https://github.com/alecmerolla/WSN-Battery-vs-Topology-Simulation/tree/main/showcase_gif)
+![showcase](https://github.com/alecmerolla/WSN-Battery-vs-Topology-Simulation/blob/main/showcase_gif/showcase.gif)
 
